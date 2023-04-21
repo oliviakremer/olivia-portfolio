@@ -41173,35 +41173,140 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 
 .u-footer .u-sheet-1 {
-  min-height: 120px;
+  min-height: 192px;
 }
 
 .u-footer .u-text-1 {
   width: 417px;
-  margin: 49px auto;
+  font-size: 1.25rem;
+  margin: 22px auto 0;
+}
+
+.u-footer .u-list-1 {
+  width: 63px;
+  margin: 3px 448px 0 auto;
+}
+
+.u-footer .u-repeater-1 {
+  grid-gap: 0px 0px;
+}
+
+.u-footer .u-image-1 {
+  width: 96px;
+  height: 168px;
+  margin: -45px auto 0 438px;
+}
+
+.u-footer .u-image-2 {
+  width: 59px;
+  height: 59px;
+  margin: -113px auto 0;
+}
+
+.u-footer .u-image-3 {
+  width: 131px;
+  height: 64px;
+  margin: -61px 426px 60px auto;
 }
 @media (max-width: 1199px) {
   .u-footer .u-sheet-1 {
-    min-height: 99px;
+    min-height: 183px;
+  }
+
+  .u-footer .u-text-1 {
+    width: 417px;
+  }
+
+  .u-footer .u-list-1 {
+    margin-right: 448px;
+  }
+
+  .u-footer .u-repeater-1 {
+    grid-template-columns: repeat(undefined, NaN%);
+  }
+
+  .u-footer .u-image-1 {
+    width: 96px;
+    height: 169px;
+    margin-top: -46px;
+    margin-left: 345px;
+  }
+
+  .u-footer .u-image-2 {
+    width: 59px;
+    margin-top: -114px;
+  }
+
+  .u-footer .u-image-3 {
+    width: 131px;
+    height: 64px;
+    margin-top: -61px;
+    margin-right: 327px;
+    margin-bottom: 55px;
   }
 }
 @media (max-width: 991px) {
   .u-footer .u-sheet-1 {
-    min-height: 76px;
+    min-height: 182px;
+  }
+
+  .u-footer .u-repeater-1 {
+    grid-template-columns: 100%;
+  }
+
+  .u-footer .u-image-1 {
+    margin-top: -46px;
+    margin-left: 235px;
+  }
+
+  .u-footer .u-image-3 {
+    margin-top: -64px;
+    margin-right: 218px;
+    margin-bottom: 57px;
   }
 }
 @media (max-width: 767px) {
-  .u-footer .u-sheet-1 {
-    min-height: 57px;
+  .u-footer .u-image-1 {
+    margin-right: 214px;
+    margin-left: auto;
+  }
+
+  .u-footer .u-image-2 {
+    margin-top: -111px;
+    margin-left: 157px;
+  }
+
+  .u-footer .u-image-3 {
+    margin-top: -64px;
+    margin-right: 113px;
+    margin-bottom: 55px;
   }
 }
 @media (max-width: 575px) {
   .u-footer .u-sheet-1 {
-    min-height: 36px;
+    min-height: 177px;
   }
 
   .u-footer .u-text-1 {
     width: 340px;
+  }
+
+  .u-footer .u-list-1 {
+    margin-right: 277px;
+  }
+
+  .u-footer .u-image-1 {
+    margin-top: -51px;
+    margin-right: 35px;
+  }
+
+  .u-footer .u-image-2 {
+    margin-top: -114px;
+    margin-left: auto;
+  }
+
+  .u-footer .u-image-3 {
+    margin: -61px auto 54px 22px;
   }
 }
 
