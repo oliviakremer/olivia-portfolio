@@ -1,18 +1,18 @@
 
 <?php
-if ($_SERVER['REQUEST_METHOD'] == 'POST') {
-    $name = $_POST['name'];
-    $email = $_POST['email'];
-    $message = $_POST['message'];
+if(isset($_POST['submit'])){
+  $name = $_POST['name'];
+  $email = $_POST['email'];
+  $message = $_POST['message'];
 
-    $to = 'oliviakremer.portfolio@gmail.com';
-    $subject = 'New message from your website';
-    $message = "Name: $name\nEmail: $email\nMessage: $message";
-    $headers = "From: $email";
+  $to = 'oliviakremer.portfolio@gmail.com';
+  $subject = 'New message from your website';
+  $body = "Name: $name\nEmail: $email\n\nMessage:\n$message";
 
-    mail($to, $subject, $message, $headers);
-
-    header('Location: thank-you.html'); 
-    exit;
+  if(mail($to, $subject, $body)){
+    header('Location: thank-you.html');
+  } else {
+    echo 'There was an error sending your message. Please try again later.';
+  }
 }
 ?>
