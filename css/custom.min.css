@@ -28,7 +28,7 @@ a:hover{text-decoration:none !important;color:#ff0059 !important;-webkit-transit
 .work .work-list li a{padding-bottom:5px;font-size:1.1875em;font-weight:700;text-decoration:none;border-bottom:1px solid #b3b3b3}
 .work .work-list li a:hover{border-bottom:1px solid #333}
 .award .award-list{margin-left:0px}
-.award .award-list li:first-child{font-size:0.9375em;color:#333}
+.award .award-list li:first-child{font-size:0.9375em;color:#333; font-weight: bold;}
 .skills .skill-list{margin-left:0px}
 .skills .skill-list li:first-child{font-size:0.9375em;color:##333}
 .quote{background:url(../img/black.jpeg);padding:20px 0px;margin-top:120px}
