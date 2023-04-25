@@ -20,7 +20,7 @@ a:hover{text-decoration:none !important;color:#ff0059 !important;-webkit-transit
 .intro h1:before{position:absolute;left:-220px;top:-150px;font-size:270px;z-index:-1;color: #b3b3b3}
 .intro h1 span{font-size:47px}
 .college .college-list {margin-left: 0px;}
-.college .college-list li{list-style:none;font-size:0.9375em;color:#333}
+.college .college-list li{list-style:none;font-size:0.9375em;color:#333; font-weight: bold;}
 .college .college-list a{padding-bottom:5px;font-size:1.1875em;font-weight:700;text-decoration:none;border-bottom:1px solid #b3b3b3}
 .college .college-list li a:hover{border-bottom:1px solid #333}
 .work .work-list{margin-left:0px}
