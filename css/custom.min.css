@@ -9,7 +9,7 @@ a:hover{text-decoration:none !important;color:#ff0059 !important;-webkit-transit
 @-ms-keyframes blink{0%{opacity:1}50%{opacity:0}100%{opacity:1}}
 @-o-keyframes blink{0%{opacity:1}50%{opacity:0}100%{opacity:1}}
 .main-nav{background:#f4f4f4;padding-top:23px}
-.main-nav nav ul li a{color:#f4f4f4}
+.main-nav nav ul li a{color:#333}
 .main-nav nav ul li.active a{color:##333}
 .section.second{margin-bottom:90px}
 .section .container{position:relative}
