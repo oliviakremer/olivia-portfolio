@@ -29,7 +29,7 @@ a:hover{text-decoration:none !important;color:#ff0059 !important;-webkit-transit
 .skills .skill-list{margin-left:0px}
 .skills .skill-list li:first-child{font-size:0.9375em; font-weight: bold; color:#333}
 .quote{background:url(../img/black.jpeg);padding:20px 0px;margin-top:120px}
-.quote h1{margin:100px 0px;padding:40px 20px;border:5px solid #fff;color:#fff}
+.quote h1{margin:100px 0px;padding:40px 20px;border:5px solid #ffffff;color:#ffffff}
 footer{padding:50px 0px 0px 0px}
 footer .social li{display:inline;margin-right:20px}
 footer .social li a{font-size:2.25em;color:#333}
