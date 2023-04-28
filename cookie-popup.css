@@ -8,7 +8,7 @@
   bottom: 0;
   left: 0;
   background-color: #fff;
-  color: #fff;
+  color: #333;
   padding: 2rem;
   text-align: center;
   font-size: 1.25rem;
@@ -29,7 +29,7 @@
 #accept-cookies {
   font-family: "Source Code Pro", monospace;
   background-color: #fff;
-  color: #333;
+  color: #fff;
   border: none;
   padding: 5px 10px;
   font-size: 1.25rem;
