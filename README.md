@@ -1,8 +1,8 @@
 Hello and welcome to my portfolio! This is a collection of my projects and work that showcase my skills and experience in the field of digital product management.
 
-The portfolio includes a variety of projects, ranging from HTML and CSS formatting to more complex projects involving user research, product strategy, and project management. Each project is designed to demonstrate my ability to create user-centered products and services that meet the needs of both businesses and customers.
+The portfolio was created using HTML and CSS formatting. 
 
-In addition to my project work, my portfolio also includes information about my background, education, and work experience. This information provides context for my projects and demonstrates my qualifications as a digital product manager.
+My portfolio includes information about my background, education, and work experience, as well as some of my skills. This information provides context for my projects and demonstrates my qualifications as a digital product manager.
 
 Throughout this portfolio, I have paid close attention to design and accessibility to ensure that all users can easily navigate and view the content. I have also included relevant links to my social media profiles and contact information, making it easy for potential clients or employers to get in touch with me.
 
